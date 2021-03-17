@@ -17,5 +17,9 @@ Dataset :
 Dataset Link : https://data-flair.training/blogs/python-project-traffic-signs-recognition/
 
 
+Output look like this:
+
+
+
 
 ![images](https://user-images.githubusercontent.com/56103513/111415228-7efd9180-8707-11eb-9d4c-f1c1d6f52b6a.png)
