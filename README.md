@@ -1,7 +1,7 @@
-[Traffic sign detection.pdf]
 # Traffic-_sign_classification
 
-Report : (https://github.com/kishorerajan810/Traffic-_sign_classification/files/6838148/Traffic.sign.detection.pdf)
+Report : [Traffic sign detection.pdf]
+(https://github.com/kishorerajan810/Traffic-_sign_classification/files/6838148/Traffic.sign.detection.pdf)
 
 
 This project requires prior knowledge of Keras, Matplotlib, Scikit-learn, Pandas, PIL and image classification.
