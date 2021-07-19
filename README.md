@@ -1,6 +1,6 @@
 # Traffic-_sign_classification
 
-Report : [Traffic sign detection.pdf](https://github.com/kishorerajan810/Traffic-_sign_classification/files/6838148/Traffic.sign.detection.pdf)
+My_Report : [Traffic sign detection](https://github.com/kishorerajan810/Traffic-_sign_classification/files/6838148/Traffic.sign.detection.pdf)
 
 
 This project requires prior knowledge of Keras, Matplotlib, Scikit-learn, Pandas, PIL and image classification.
@@ -19,7 +19,7 @@ Dataset :
    The dataset contains more than 50,000 images of different traffic signs. It is further classified into 43 different classes. The dataset is quite varying, some of the classes have many images while some classes have few images.The dataset has a train folder which contains images inside each class and a test folder which we will use for testing our model. 
    
    
-Dataset Link : https://data-flair.training/blogs/python-project-traffic-signs-recognition/
+Dataset Link : [Click Here](https://data-flair.training/blogs/python-project-traffic-signs-recognition/)
 
 
 Output look like this:
